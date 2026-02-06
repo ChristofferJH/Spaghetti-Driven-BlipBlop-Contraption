@@ -4,8 +4,9 @@ Platforms:
 Windows 10 and 11, 64 bit
 
 Technologies:
-C/C++, CMAKE, OpenGL, Win32, DEAR IMGUI
+C/C++, CMAKE, GLFW, OpenGL, IMGUI
 
 
-3rd party libraries used under licence:
-Dear IMGUI: MIT LICENCE - https://github.com/ocornut/imgui
+3rd party libraries
+Dear IMGUI: - https://github.com/ocornut/imgui
+GLFW: https://www.glfw.org/
