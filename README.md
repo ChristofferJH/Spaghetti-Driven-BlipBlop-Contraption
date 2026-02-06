@@ -1,7 +1,7 @@
 Personal Game engine project
 
 Platforms:
-Windows
+Windows 10 and 11, 64 bit
 
 Technologies:
 C/C++, CMAKE, OpenGL, Win32, DEAR IMGUI
